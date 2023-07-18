@@ -2,6 +2,10 @@
 
 ---
 
+* 🤝Я открыта для сотрудничества с интересными проектами
+
+---
+
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Viktoria-fc7cf4?style=flat&logo=Telegram&logoColor=white)](https://t.me/viktoria_odinaeva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:odinaeva.viktoria@gmail.com)
 
 ---
@@ -36,8 +40,6 @@
 
 <b>Моя статистика на GitHub</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odinaeva-vika&layout=compact&theme=vision-friendly-dark)](https://github.com/odinaeva-vika/github-readme-stats)
-
 <table>
   <tr>
     <td>
@@ -49,4 +51,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=odinaeva-vika)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=odinaeva-vika) -->
