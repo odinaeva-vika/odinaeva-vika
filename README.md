@@ -2,7 +2,7 @@
 
 ---
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/viktoria_odinaeva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:odinaeva.viktoria@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Viktoria-fc7cf4?style=flat&logo=Telegram&logoColor=white)](https://t.me/viktoria_odinaeva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:odinaeva.viktoria@gmail.com)
 
 ---
 
