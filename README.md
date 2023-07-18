@@ -36,4 +36,4 @@
 
 <b>Моя статистика на GitHub</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odinaeva-vika&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odinaeva-vika&show_icons=true)](https://github.com/odinaeva-vika/github-readme-stats)
