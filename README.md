@@ -24,7 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
- [![My Skills](https://skillicons.dev/icons?i=bootstrap,firebase,ts)]
+  [![My Skills](https://skillicons.dev/icons?i=bootstrap,firebase,ts)](https://skillicons.dev)
 </div>
 
 ---
@@ -33,7 +33,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
- [![My Skills](https://skillicons.dev/icons?i=vscode,vite)]
+  [![My Skills](https://skillicons.dev/icons?i=vscode,vite)](https://skillicons.dev)
 </div>
 
 ---
